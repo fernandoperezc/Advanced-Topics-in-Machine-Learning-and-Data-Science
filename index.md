@@ -4,6 +4,16 @@ In this seminar, recent papers of the machine learning and data science literatu
 
 The seminar “Advanced Topics in Machine Learning and Data Science” familiarizes students with recent developments in machine learning and data science. Recently published articles, as well as influential papers, have to be presented and critically reviewed. The students will learn how to structure a scientific presentation, which covers the motivation, key ideas and main results of a scientific paper. An important goal of the seminar presentation is to summarize the essential ideas of the paper in sufficient depth for the audience to be able to follow its main conclusion, especially why the article is (or is not) worth attention. The presentation style will play an important role and should reach the level of professional scientific presentations.
 
+## Contact:
+
+[Fernando Perez-Cruz](fernando.perezcruz@sdsc.ethz.ch)
+
+Office UNH H7
+
+## Lectures:
+
+Wednesday 16:00 -- 18:00     LFW  E 13
+
 ## List of papers:
 
 *   [Integer Discrete Flows and Lossless Compression.](https://papers.nips.cc/paper/9383-integer-discrete-flows-and-lossless-compression.pdf)
@@ -27,5 +37,39 @@ The seminar “Advanced Topics in Machine Learning and Data Science” familiari
 *   [Gaussian Process Behaviour in Wide Deep Neural Networks.](https://arxiv.org/pdf/1804.11271.pdf)
 *   [A Kernel Two-Sample Test.](http://www.jmlr.org/papers/volume13/gretton12a/gretton12a.pdf)
 
+## Schedule:
 
-
+- Feb 19th: No lecture
+- Feb 26th: Introduction
+- March 3rd: No lecture
+- March 11th:
+  - Paper1: Student1
+  - Paper2: Student2
+- March 18th:
+  - Paper3: Student3
+  - Paper4: Student4
+- March 25th:
+  - Paper5: Student5
+  - Paper6: Student6
+- April 1st: No lecture
+- April 8th:
+  - Paper7: Student7
+  - Paper8: Student8
+- April 22nd:
+  - Paper9: Student9
+  - Paper10: Student10
+- April 29th:
+  - Paper11: Student11
+  - Paper12: Student12
+- May 6th:
+  - Paper13: Student13
+  - Paper14: Student14
+- May 13th:
+  - Paper15: Student15
+  - Paper16: Student16
+- May 20th:
+  - Paper17: Student17
+  - Paper18: Student18
+- May 27th:
+  - Paper19: Student19
+  - Paper20: Student20
