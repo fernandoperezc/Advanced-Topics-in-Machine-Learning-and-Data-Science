@@ -30,7 +30,7 @@ Wednesday 16:00 -- 18:00     LFW  E 13
 *   [Overparameterized Neural Networks Can Implement Associative Memory.](https://arxiv.org/pdf/1909.12362.pdf)
 *   [Prescribed Generative Adversarial Networks.](https://arxiv.org/pdf/1910.04302.pdf)
 *   [Federated Optimization: Distributed Machine Learning for On-Device Intelligence.](https://arxiv.org/pdf/1610.02527.pdf)
-*   [Differentially Private Regression with Gaussian Processes.](http://proceedings.mlr.press/v84/smith18a/smith18a.pdf)
+*   [Differentially Private Regression with Gaussian Processes.](http://proceedings.mlr.press/v84/smith18a/smith18a.pdf)
 *   [A Fast Learning Algorithm for Deep Belief Nets.](https://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.2006.18.7.1527)
 *   [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks.](https://arxiv.org/pdf/1810.00825.pdf)
 *   [Geometric Deep Learning: Going beyond Euclidean data.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7974879)
