@@ -6,7 +6,7 @@ The seminar “Advanced Topics in Machine Learning and Data Science” familiari
 
 ## Contact:
 
-[Fernando Perez-Cruz](email:fernando.perezcruz@sdsc.ethz.ch)
+[Fernando Perez-Cruz](mailto:fernando.perezcruz@sdsc.ethz.ch)
 
 Office UNH H7
 
