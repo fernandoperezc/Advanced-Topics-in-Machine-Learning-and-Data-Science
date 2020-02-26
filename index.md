@@ -40,7 +40,7 @@ Wednesday 16:00 -- 18:00     LFW  E 13
 ## Schedule:
 
 - Feb 19th: No lecture
-- Feb 26th: Introduction
+- Feb 26th: [Introduction](ATMLDS.pdf)
 - March 3rd: No lecture
 - March 11th:
   - Paper1: Student1
