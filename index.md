@@ -17,6 +17,7 @@ Wednesday 16:00 -- 18:00     LFW  E 13
 ## List of papers:
 
 *   [Integer Discrete Flows and Lossless Compression.](https://papers.nips.cc/paper/9383-integer-discrete-flows-and-lossless-compression.pdf)
+*   [Glow: Generative Flow with Invertible 1×1 Convolutions.](https://arxiv.org/pdf/1807.03039.pdf)
 *   [Universal Domain Adaptation.](http://openaccess.thecvf.com/content_CVPR_2019/papers/You_Universal_Domain_Adaptation_CVPR_2019_paper.pdf)
 *   [Asymmetric Tri-training for Unsupervised Domain Adaptation.](https://arxiv.org/pdf/1702.08400.pdf)
 *   [Adaptive and Safe Bayesian Optimization in High Dimensions via One-Dimensional Subspaces.](https://arxiv.org/pdf/1902.03229.pdf)
@@ -43,33 +44,32 @@ Wednesday 16:00 -- 18:00     LFW  E 13
 - Feb 26th: [Introduction](ATMLDS.pdf)
 - March 3rd: No lecture
 - March 11th:
-  - Paper1: Student1
-  - Paper2: Student2
+  - Fairness Constraints: Mechanisms for Fair Classification: Anian Ruoss
+  - The Role of Over-Parametrization in Generalization of Neural Networks: Claudio Ferrari
 - March 18th:
-  - Paper3: Student3
-  - Paper4: Student4
+  - Variational Inference: A Review for Statisticians: Alicja Chaszczewicz
+  - Adaptive and Safe Bayesian Optimization in High Dimensions via One-Dimensional Subspaces: Noman Ahmed Sheikh
 - March 25th:
-  - Paper5: Student5
-  - Paper6: Student6
+  - Prescribed Generative Adversarial Networks: Mathieu Chevalley
+  - Differentially Private Regression with Gaussian Processes: Athina Nisioti
 - April 1st: No lecture
 - April 8th:
-  - Paper7: Student7
-  - Paper8: Student8
+  - In Search of the Real Inductive Bias: On the Role of Implicit Regularization in Deep Learning: Michele Marzollo
+  - Federated Optimization: Distributed Machine Learning for On-Device Intelligence: Razvan Pasca
 - April 22nd:
-  - Paper9: Student9
-  - Paper10: Student10
+  - Glow: Generative Flow with Invertible 1×1 Convolutions: Anton Lu
+  - Integer Discrete Flows and Lossless Compression: Simon Böhm
 - April 29th:
-  - Paper11: Student11
-  - Paper12: Student12
+  - Universal Domain Adaptation: Marco Bagatella
+  - Overparameterized Neural Networks Can Implement Associative Memory: Matúš Žilinec
 - May 6th:
-  - Paper13: Student13
-  - Paper14: Student14
+  - Uniform convergence may be unable to explain generalization in deep learning: Cheuk Yu Chan
+  - Combinatorial Bayesian Optimization using the Graph Cartesian Product: Pouya Pourjafar Kolaei
 - May 13th:
-  - Paper15: Student15
-  - Paper16: Student16
+  - Asymmetric Tri-training for Unsupervised Domain Adaptation: Korbinian Abstreiter
+  - A Fast Learning Algorithm for Deep Belief Nets: Nicholas Hutchins
 - May 20th:
-  - Paper17: Student17
-  - Paper18: Student18
+  - Geometric Deep Learning: Going beyond Euclidean data: Pavel Senchanka
+  - Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks: Guirong Fu
 - May 27th:
-  - Paper19: Student19
-  - Paper20: Student20
+  - Gaussian Process Behaviour in Wide Deep Neural Networks: Panuya Balasuntharam
