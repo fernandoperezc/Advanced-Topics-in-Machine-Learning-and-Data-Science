@@ -69,7 +69,7 @@ Wednesday 16:00 -- 18:00     LFW  E 13
   - Asymmetric Tri-training for Unsupervised Domain Adaptation: Korbinian Abstreiter
   - A Fast Learning Algorithm for Deep Belief Nets: Nicholas Hutchins
 - May 20th:
-  - Geometric Deep Learning: Going beyond Euclidean data: Pavel Senchanka
-  - Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks: Guirong Fu
+  - Geometric Deep Learning: Going beyond Euclidean data: Guirong Fu
+  - Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks: Pavel Senchanka
 - May 27th:
   - Gaussian Process Behaviour in Wide Deep Neural Networks: Panuya Balasuntharam
