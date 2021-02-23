@@ -12,7 +12,7 @@ Office UNH H7
 
 ## Lectures:
 
-Wednesday 16:00 -- 18:00     LFW  E 13
+Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215655
 
 ## List of papers:
 
