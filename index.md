@@ -16,7 +16,7 @@ Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215
 
 ## List of papers:
 
-*   [Reconciling modern machine-learning practice and the classical bias–variance trade-off.](https://www.pnas.org/content/116/32/15849)
+*   [Reconciling modern machine-learning practice and the classical bias-variance trade-off.](https://www.pnas.org/content/116/32/15849)
 *   [A Kernel Two-Sample Test.](https://www.jmlr.org/papers/volume13/gretton12a/gretton12a.pdf)
 *   [Natural Graph Networks.](https://papers.nips.cc/paper/2020/hash/2517756c5a9be6ac007fe9bb7fb92611-Abstract.html)
 *   [On Calibration of Modern Neural Networks.](https://arxiv.org/pdf/1706.04599.pdf)
