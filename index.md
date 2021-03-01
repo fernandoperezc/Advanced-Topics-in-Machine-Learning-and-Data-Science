@@ -44,14 +44,14 @@ Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215
   - Reconciling modern machine-learning practice and the classical bias-variance trade-off by Manuel Burger.
   - On Calibration of Modern Neural Networks by Lukas Fluri.
 - March 17th:
-  - 
-  - 
+  - Natural Graph Networks by Piersilvio De Bartolomeis
+  - Towards A Rigorous Science of Interpretable Machine Learning by Nicolas Volken
 - March 24th:
-  - 
-  - 
+  - Density estimation using real NVP by Flavio Schneider
+  - Do Deep Generative Models Know What They don't Know? By Zhenru Jia
 - March 31st: 
-  - 
-  - 
+  - SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows by Florian Barkmann
+  - Flows for simultaneous manifold learning and density estimation by Jona Braun
 - April 7th: No Lecture (Easter)
 - April 14th :
   - 
