@@ -26,7 +26,10 @@ Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215
 *   [Flows for simultaneous manifold learning and density estimation.](https://papers.nips.cc/paper/2020/hash/051928341be67dcba03f0e04104d9047-Abstract.html)
 *   [Nonparametric graphical model for counts.](https://jmlr.org/papers/v21/19-362.html)
 *   [Bayesian Learning of Sum-Product Networks.](https://proceedings.neurips.cc/paper/2019/hash/5421e013565f7f1afa0cfe8ad87a99ab-Abstract.html)
+*   [Equality of Opportunity in Supervised Learning.](https://arxiv.org/abs/1610.02413)
+*   [Learning Fair Representations.](http://proceedings.mlr.press/v28/zemel13.html?version=meter+at+null&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=&priority=true&action=click&contentCollection=meter-links-click)
 *   [Fair Decisions Despite Imperfect Predictions.](http://proceedings.mlr.press/v108/kilbertus20a.html)
+*   [Counterfactual Fairness.](https://papers.nips.cc/paper/2017/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html )
 *   [Towards A Rigorous Science of Interpretable Machine Learning.](https://arxiv.org/abs/1702.08608)
 *   [Elements of Causal Inference (Chapters 1-2 and 3-4).](https://mitpress.mit.edu/books/elements-causal-inference)
 *   [Language Models are Few-Shot Learners.](https://arxiv.org/pdf/2005.14165.pdf)
@@ -54,21 +57,21 @@ Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215
   - Flows for simultaneous manifold learning and density estimation by Jona Braun
 - April 7th: No Lecture (Easter)
 - April 14th :
-  - 
-  - 
+  - Equality of Opportunity in Supervised Learning by Fabian Bosshard
+  - Learning Fair Representations by Robin Chan
 - April 21st :
-  - 
-  - 
+  - Fair Decisions Despite Imperfect Predictions by Guillaume Thiry
+  - Counterfactual Fairness by Sven Gregorio
 - April 28th: No Lecture
 - May 5th:
-  - 
-  - 
+  - Bayesian Learning of Sum-Product Networks by Gao Shuaijun
+  - Elements of Causal Inference (Chapters 1-2) by Andreas Kaufmann
 - May 12th:
-  - 
-  - 
+  - Language Models are Few-Shot Learners by Max Mathys
+  - Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR by Baptiste Freydt
 - May 19th:
-  - 
-  - 
+  - Shopper: A Probabilistic Model of Consumer Choice with Substitutes and Complements by Soel Micheletti
+  - Inferring causation from time series in Earth system sciences by Ghjulia Sialelli
 - May 26th:
-  - 
+  - Learning to Detect Sepsis with a Multitask Gaussian Process RNN Classifier by Simone Riedi
   - 
