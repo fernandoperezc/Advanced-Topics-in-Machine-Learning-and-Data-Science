@@ -74,4 +74,4 @@ Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215
   - Inferring causation from time series in Earth system sciences by Ghjulia Sialelli
 - May 26th:
   - Learning to Detect Sepsis with a Multitask Gaussian Process RNN Classifier by Simone Riedi
-  - Using Deep Neural Networks as Cost-Effective Surrogate Models for Super-Parameterized E3SM Radiative Transfer by Lukas HŠchler
+  - Using Deep Neural Networks as Cost-Effective Surrogate Models for Super-Parameterized E3SM Radiative Transfer by Lukas Hachler
