@@ -71,7 +71,7 @@ Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215
   - Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR by Baptiste Freydt
 - May 19th:
   - Shopper: A Probabilistic Model of Consumer Choice with Substitutes and Complements by Soel Micheletti
-  - Inferring causation from time series in Earth system sciences by Ghjulia Sialelli
-- May 26th:
   - Learning to Detect Sepsis with a Multitask Gaussian Process RNN Classifier by Simone Riedi
+- May 26th:
+  - Inferring causation from time series in Earth system sciences by Ghjulia Sialelli
   - Using Deep Neural Networks as Cost-Effective Surrogate Models for Super-Parameterized E3SM Radiative Transfer by Lukas Hachler
