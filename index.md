@@ -44,8 +44,8 @@ Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215
 - Feb 24th: [Introduction](ATMLDS.pdf)
 - March 3rd: No lecture
 - March 10th:
-  - Reconciling modern machine-learning practice and the classical bias-variance trade-off by Manuel Burger.
-  - On Calibration of Modern Neural Networks by Lukas Fluri.
+  - Reconciling modern machine-learning practice and the classical bias-variance trade-off by Manuel Burger. [Slides](Burger.pdf)
+  - On Calibration of Modern Neural Networks by Lukas Fluri. [Slides](Fluri.pdf)
 - March 17th:
   - Natural Graph Networks by Piersilvio De Bartolomeis
   - Towards A Rigorous Science of Interpretable Machine Learning by Nicolas Volken
