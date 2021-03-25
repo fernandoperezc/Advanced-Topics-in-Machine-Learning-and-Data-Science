@@ -48,9 +48,9 @@ Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215
   - On Calibration of Modern Neural Networks by Lukas Fluri. [Slides](Fluri.pdf)
 - March 17th:
   - Natural Graph Networks by Piersilvio De Bartolomeis
-  - Towards A Rigorous Science of Interpretable Machine Learning by Nicolas Volken
+  - Towards A Rigorous Science of Interpretable Machine Learning by Nicolas Volken. [Slides](Volken.pdf)
 - March 24th:
-  - Density estimation using real NVP by Flavio Schneider
+  - Density estimation using real NVP by Flavio Schneider [Slides](Schneider.pdf)
   - Do Deep Generative Models Know What They don't Know? By Zhenru Jia
 - March 31st: 
   - SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows by Florian Barkmann
