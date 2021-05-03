@@ -53,15 +53,14 @@ Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215
   - Density estimation using real NVP by Flavio Schneider [Slides](Schneider.pdf)
   - Do Deep Generative Models Know What They don't Know? By Zhenru Jia [Slides](Jia.pdf)
 - March 31st: 
-  - SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows by Florian Barkmann
-  - Flows for simultaneous manifold learning and density estimation by Jona Braun
+  - SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows by Florian Barkmann [Slides](Barkmann.pdf)
+  - Flows for simultaneous manifold learning and density estimation by Jona Braun [Slides](Braun.pdf)
 - April 7th: No Lecture (Easter)
 - April 14th :
-  - Equality of Opportunity in Supervised Learning by Fabian Bosshard
-  - Learning Fair Representations by Robin Chan
+  - Equality of Opportunity in Supervised Learning by Fabian Bosshard [Slides](Bosshard.pdf)
+  - Learning Fair Representations by Robin Chan [Slides](Chan.pdf)
 - April 21st :
-  - Fair Decisions Despite Imperfect Predictions by Guillaume Thiry
-  - Counterfactual Fairness by Sven Gregorio
+  - Fair Decisions Despite Imperfect Predictions by Guillaume Thiry [Slides](Thiry.pdf)
 - April 28th: No Lecture
 - May 5th:
   - Bayesian Learning of Sum-Product Networks by Gao Shuaijun
@@ -75,3 +74,6 @@ Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215
 - May 26th:
   - Inferring causation from time series in Earth system sciences by Ghjulia Sialelli
   - Using Deep Neural Networks as Cost-Effective Surrogate Models for Super-Parameterized E3SM Radiative Transfer by Lukas Hachler
+- June 2nd:
+  - Nonparametric graphical model for counts by Marco Wiedner
+  - Counterfactual Fairness by Sven Gregorio
