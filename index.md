@@ -63,10 +63,10 @@ Wednesday 16:00 -- 18:00     LFW  E 13 and Zoom: https://ethz.zoom.us/j/93919215
   - Fair Decisions Despite Imperfect Predictions by Guillaume Thiry [Slides](Thiry.pdf)
 - April 28th: No Lecture
 - May 5th:
-  - Bayesian Learning of Sum-Product Networks by Gao Shuaijun
-  - Elements of Causal Inference (Chapters 1-2) by Andreas Kaufmann
+  - Bayesian Learning of Sum-Product Networks by Gao Shuaijun [Slides](Gao.pdf)
+  - Elements of Causal Inference (Chapters 1-2) by Andreas Kaufmann [Slides](Kaufmann.pdf)
 - May 12th:
-  - Language Models are Few-Shot Learners by Max Mathys
+  - Language Models are Few-Shot Learners by Max Mathys [Slides](Mathys.pdf)
   - Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR by Baptiste Freydt
 - May 19th:
   - Shopper: A Probabilistic Model of Consumer Choice with Substitutes and Complements by Soel Micheletti
