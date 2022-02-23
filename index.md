@@ -41,39 +41,39 @@ Wednesday 16:00 -- 18:00     LFW  E13
 
 ## Schedule:
 
-- Feb 24th: [Introduction](ATMLDS.pdf)
-- March 3rd: No lecture
-- March 10th:
-  - Reconciling modern machine-learning practice and the classical bias-variance trade-off by Manuel Burger. [Slides](Burger.pdf)
-  - On Calibration of Modern Neural Networks by Lukas Fluri. [Slides](Fluri.pdf)
-- March 17th:
-  - Natural Graph Networks by Piersilvio De Bartolomeis. [Slides](Bartolomeis.pdf)
-  - Towards A Rigorous Science of Interpretable Machine Learning by Nicolas Volken. [Slides](Volken.pdf)
-- March 24th:
-  - Density estimation using real NVP by Flavio Schneider [Slides](Schneider.pdf)
-  - Do Deep Generative Models Know What They don't Know? By Zhenru Jia [Slides](Jia.pdf)
-- March 31st: 
-  - SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows by Florian Barkmann [Slides](Barkmann.pdf)
-  - Flows for simultaneous manifold learning and density estimation by Jona Braun [Slides](Braun.pdf)
-- April 7th: No Lecture (Easter)
-- April 14th :
-  - Equality of Opportunity in Supervised Learning by Fabian Bosshard [Slides](Bosshard.pdf)
-  - Learning Fair Representations by Robin Chan [Slides](Chan.pdf)
-- April 21st :
-  - Fair Decisions Despite Imperfect Predictions by Guillaume Thiry [Slides](Thiry.pdf)
-- April 28th: No Lecture
-- May 5th:
-  - Bayesian Learning of Sum-Product Networks by Gao Shuaijun [Slides](Gao.pdf)
-  - Elements of Causal Inference (Chapters 1-2) by Andreas Kaufmann [Slides](Kaufmann.pdf)
-- May 12th:
-  - Language Models are Few-Shot Learners by Max Mathys [Slides](Mathys.pdf)
-  - Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR by Baptiste Freydt
-- May 19th:
-  - Shopper: A Probabilistic Model of Consumer Choice with Substitutes and Complements by Soel Micheletti
-  - Learning to Detect Sepsis with a Multitask Gaussian Process RNN Classifier by Simone Riedi [Slides](Riedi.ppt)
-- May 26th:
-  - Inferring causation from time series in Earth system sciences by Ghjulia Sialelli
-  - Using Deep Neural Networks as Cost-Effective Surrogate Models for Super-Parameterized E3SM Radiative Transfer by Lukas Hachler
-- June 2nd:
-  - Nonparametric graphical model for counts by Marco Wiedner
-  - Counterfactual Fairness by Sven Gregorio [Slides](Gregorio.ppt)
+- Feb 23rd: No Lecture
+- March 2nd: [Introduction](ATMLDS.pdf)
+- March 9th: No lecture
+- March 16th:
+  - XXX by YYY. 
+  - XXX by YYY.
+- March 23rd:
+  - XXX by YYY. 
+  - XXX by YYY.
+- March 30th: 
+  - XXX by YYY. 
+  - XXX by YYY.
+- April 6th: 
+  - XXX by YYY. 
+  - XXX by YYY.
+- April 13th:
+  - XXX by YYY. 
+  - XXX by YYY.
+- April 20th (Easter): No lecture
+- April 27th:
+  - XXX by YYY. 
+  - XXX by YYY. 
+- May 4th:
+  - XXX by YYY. 
+  - XXX by YYY.
+- May 11th:
+  - XXX by YYY. 
+  - XXX by YYY.
+- May 18th:
+  - XXX by YYY. 
+  - XXX by YYY.
+- May 25th:
+  - XXX by YYY. 
+  - XXX by YYY.
+- June 1st: Overflow if needed.
+
