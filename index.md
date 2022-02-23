@@ -26,7 +26,6 @@ Wednesday 16:00 -- 18:00     LFW  E13
 *   [Variational Inference with Normalizing Flows.](https://arxiv.org/abs/1505.05770)
 *   [Moser Flow: Divergence-based Generative Modeling on Manifolds.](https://openreview.net/forum?id=qGvMv3undNJ)
 *   [Learning and Generalization in Overparameterized Normalizing Flows.](https://arxiv.org/abs/2106.10535)
-*   [Equality of Opportunity in Supervised Learning.](https://arxiv.org/abs/1610.02413)
 *   [Distilling the Knowledge in a Neural Network.](https://arxiv.org/abs/1503.02531)
 *   [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models.](https://arxiv.org/abs/2110.07178)
 *   [Invariance, Causality and Robustness.](https://arxiv.org/abs/1812.08233)
