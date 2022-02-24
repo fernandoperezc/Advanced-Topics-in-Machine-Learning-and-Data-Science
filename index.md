@@ -32,7 +32,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
 *   [Causality for Machine Learning.](https://arxiv.org/abs/1911.10500)
 *   [Single-Model Uncertainties for Deep Learning.](https://arxiv.org/abs/1811.00908)
 *   [A Unified Approach to Interpreting Model Predictions.](https://arxiv.org/abs/1705.07874)
-*   [Benchmarking and survey of explanation methods for black box models.](https://arxiv.org/abs/1705.07874)
+*   [Benchmarking and survey of explanation methods for black box models.](https://arxiv.org/abs/2102.13076)
 *   [Learning what and where to attend.](https://arxiv.org/abs/1805.08819)
 *   [MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers.](https://openreview.net/forum?id=Tqx7nJp7PR)
 *   [Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer.](https://arxiv.org/abs/1808.02651)
