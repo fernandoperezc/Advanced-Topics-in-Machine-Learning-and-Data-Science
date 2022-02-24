@@ -40,7 +40,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
 ## Schedule:
 
 - Feb 23rd: No Lecture
-- March 2nd: Introduction
+- March 2nd: [Introduction](ATMLDS.pdf)
 - March 9th: No lecture
 - March 16th:
   - Attention is all you need by YYY. 
