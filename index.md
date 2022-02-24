@@ -17,7 +17,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
 ## List of papers:
 
 *   [Attention is all you need.](https://arxiv.org/abs/1706.03762)
-*   [GPT-2 Language Models are Unsupervised Multitask Learners.](https://openai.com/blog/better-language-models/)
+*   [Language Models are Unsupervised Multitask Learners.](https://openai.com/blog/better-language-models/)
 *   [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.](https://arxiv.org/abs/1810.04805)
 *   [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.](https://arxiv.org/abs/2010.11929)
 *   [Emerging Properties in Self-Supervised Vision Transformers.](https://arxiv.org/abs/2104.14294)
@@ -40,38 +40,38 @@ Wednesday 16:00 -- 18:00     LFW  E13
 ## Schedule:
 
 - Feb 23rd: No Lecture
-- March 2nd: [Introduction](ATMLDS.pdf)
+- March 2nd: Introduction
 - March 9th: No lecture
 - March 16th:
-  - XXX by YYY. 
-  - XXX by YYY.
+  - Attention is all you need by YYY. 
+  - Language Models are Unsupervised Multitask Learners by YYY.
 - March 23rd:
-  - XXX by YYY. 
-  - XXX by YYY.
+  - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by YYY. 
+  - Pre-trained Transformers As Universal Computation Engines by YYY.
 - March 30th: 
-  - XXX by YYY. 
-  - XXX by YYY.
+  - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by YYY. 
+  - Emerging Properties in Self-Supervised Vision Transformers by YYY.
 - April 6th: 
-  - XXX by YYY. 
-  - XXX by YYY.
+  - Style transfer GAN by YYY. 
+  - Variational Inference with Normalizing Flows by YYY.
 - April 13th:
-  - XXX by YYY. 
-  - XXX by YYY.
+  - Moser Flow: Divergence-based Generative Modeling on Manifolds by YYY. 
+  - Learning and Generalization in Overparameterized Normalizing Flows by YYY.
 - April 20th (Easter): No lecture
 - April 27th:
-  - XXX by YYY. 
-  - XXX by YYY. 
+  - Causality for Machine Learning by YYY. 
+  - Invariance, Causality and Robustness by YYY. 
 - May 4th:
-  - XXX by YYY. 
-  - XXX by YYY.
+  - Benchmarking and survey of explanation methods for black box models by YYY. 
+  - A Unified Approach to Interpreting Model Predictions by YYY.
 - May 11th:
-  - XXX by YYY. 
-  - XXX by YYY.
+  - Single-Model Uncertainties for Deep Learning by YYY. 
+  - Learning what and where to attend by YYY.
 - May 18th:
-  - XXX by YYY. 
-  - XXX by YYY.
+  - MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers by YYY. 
+  - Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer by YYY.
 - May 25th:
-  - XXX by YYY. 
-  - XXX by YYY.
+  - Distilling the Knowledge in a Neural Network by YYY. 
+  - Symbolic Knowledge Distillation: from General Language Models to Commonsense Models by YYY.
 - June 1st: Overflow if needed.
 
