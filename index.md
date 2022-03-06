@@ -43,35 +43,35 @@ Wednesday 16:00 -- 18:00     LFW  E13
 - March 2nd: [Introduction](ATMLDS.pdf)
 - March 9th: No lecture
 - March 16th:
-  - Attention is all you need by YYY. 
-  - Language Models are Unsupervised Multitask Learners by YYY.
+  - Attention is all you need by Matteo Omenetti. 
+  - Language Models are Unsupervised Multitask Learners by Tianyang Xu.
 - March 23rd:
-  - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by YYY. 
-  - Pre-trained Transformers As Universal Computation Engines by YYY.
+  - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Luca Schweri. 
+  - Pre-trained Transformers As Universal Computation Engines by Antonio Lopardo.
 - March 30th: 
-  - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by YYY. 
-  - Emerging Properties in Self-Supervised Vision Transformers by YYY.
+  - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by Jonas Binder. 
+  - Emerging Properties in Self-Supervised Vision Transformers by Javier Rando Ramirez.
 - April 6th: 
-  - Style transfer GAN by YYY. 
-  - Variational Inference with Normalizing Flows by YYY.
+  - Style transfer GAN by Tianyi Liu. 
+  - Variational Inference with Normalizing Flows by Guangda Ji.
 - April 13th:
-  - Moser Flow: Divergence-based Generative Modeling on Manifolds by YYY. 
-  - Learning and Generalization in Overparameterized Normalizing Flows by YYY.
+  - Moser Flow: Divergence-based Generative Modeling on Manifolds by Viggo Moro. 
+  - Learning and Generalization in Overparameterized Normalizing Flows by Yunshu Ouyang.
 - April 20th (Easter): No lecture
 - April 27th:
-  - Causality for Machine Learning by YYY. 
-  - Invariance, Causality and Robustness by YYY. 
+  - Causality for Machine Learning by Shanglun Feng. 
+  - Invariance, Causality and Robustness by Nora Schneider. 
 - May 4th:
-  - Benchmarking and survey of explanation methods for black box models by YYY. 
-  - A Unified Approach to Interpreting Model Predictions by YYY.
+  - Benchmarking and survey of explanation methods for black box models by Andri Simeon. 
+  - A Unified Approach to Interpreting Model Predictions by Ivan Daniel Rodriguez.
 - May 11th:
-  - Single-Model Uncertainties for Deep Learning by YYY. 
-  - Learning what and where to attend by YYY.
+  - Single-Model Uncertainties for Deep Learning by Gardar Sigurdsson. 
+  - Learning what and where to attend by Fiona Muntwyler.
 - May 18th:
-  - MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers by YYY. 
-  - Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer by YYY.
+  - MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers by Kailin Liu. 
+  - Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer by Alexey Gavryushin.
 - May 25th:
-  - Distilling the Knowledge in a Neural Network by YYY. 
-  - Symbolic Knowledge Distillation: from General Language Models to Commonsense Models by YYY.
+  - Distilling the Knowledge in a Neural Network by Sophie Selgrad. 
+  - Symbolic Knowledge Distillation: from General Language Models to Commonsense Models by Junling Wang.
 - June 1st: Overflow if needed.
 
