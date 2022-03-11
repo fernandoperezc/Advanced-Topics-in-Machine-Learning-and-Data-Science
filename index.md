@@ -44,7 +44,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
 - March 9th: No lecture
 - March 16th:
   - Attention is all you need by Matteo Omenetti. 
-  - Language Models are Unsupervised Multitask Learners by Tianyang Xu.
+  - Language Models are Unsupervised Multitask Learners [cancelled].
 - March 23rd:
   - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Luca Schweri. 
   - Pre-trained Transformers As Universal Computation Engines by Antonio Lopardo.
@@ -55,7 +55,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
   - Style transfer GAN by Tianyi Liu. 
   - Variational Inference with Normalizing Flows by Guangda Ji.
 - April 13th:
-  - Moser Flow: Divergence-based Generative Modeling on Manifolds by Viggo Moro. 
+  - Moser Flow: Divergence-based Generative Modeling on Manifolds [cancelled]. 
   - Learning and Generalization in Overparameterized Normalizing Flows by Yunshu Ouyang.
 - April 20th (Easter): No lecture
 - April 27th:
