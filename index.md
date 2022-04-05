@@ -43,19 +43,19 @@ Wednesday 16:00 -- 18:00     LFW  E13
 - March 2nd: [Introduction](ATMLDS.pdf)
 - March 9th: No lecture
 - March 16th:
-  - Attention is all you need by Matteo Omenetti. 
+  - Attention is all you need by Matteo Omenetti. [Slides](Omenetti.pdf)
   - Language Models are Unsupervised Multitask Learners [cancelled].
 - March 23rd:
   - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Luca Schweri. 
   - Pre-trained Transformers As Universal Computation Engines by Antonio Lopardo.
 - March 30th: 
-  - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by Jonas Binder. 
+  - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by Jonas Binder. [Slides](Binder.pdf)
   - Emerging Properties in Self-Supervised Vision Transformers by Javier Rando Ramirez.
 - April 6th: 
   - Style transfer GAN by Tianyi Liu. 
   - Variational Inference with Normalizing Flows by Guangda Ji.
 - April 13th:
-  - Moser Flow: Divergence-based Generative Modeling on Manifolds [cancelled]. 
+  - Moser Flow: Divergence-based Generative Modeling on Manifolds by Pascal Mignon. 
   - Learning and Generalization in Overparameterized Normalizing Flows by Yunshu Ouyang.
 - April 20th (Easter): No lecture
 - April 27th:
