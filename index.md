@@ -47,12 +47,12 @@ Wednesday 16:00 -- 18:00     LFW  E13
   - Language Models are Unsupervised Multitask Learners [cancelled].
 - March 23rd:
   - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Luca Schweri. [Slides](schweri.pdf)
-  - Pre-trained Transformers As Universal Computation Engines by Antonio Lopardo.
+  - Pre-trained Transformers As Universal Computation Engines by Antonio Lopardo. [Slides](Lopardo.pdf)
 - March 30th: 
   - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by Jonas Binder. [Slides](Binder.pdf)
   - Emerging Properties in Self-Supervised Vision Transformers by Javier Rando Ramirez. [Slides](Rando.pdf)
 - April 6th: 
-  - Style transfer GAN by Tianyi Liu. 
+  - Style transfer GAN by Tianyi Liu. [Slides](Liu1.pdf)
   - Variational Inference with Normalizing Flows by Guangda Ji. [Slides](Ji.pdf)
 - April 13th:
   - Moser Flow: Divergence-based Generative Modeling on Manifolds by Pascal Mignon. 
