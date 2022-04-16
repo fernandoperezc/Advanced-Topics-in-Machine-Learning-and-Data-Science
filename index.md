@@ -55,7 +55,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
   - Style transfer GAN by Tianyi Liu. [Slides](Liu1.pdf)
   - Variational Inference with Normalizing Flows by Guangda Ji. [Slides](Ji.pdf)
 - April 13th:
-  - Moser Flow: Divergence-based Generative Modeling on Manifolds by Pascal Mignon. 
+  - Moser Flow: Divergence-based Generative Modeling on Manifolds by Pascal Mignon. [Slides](Mignon.pdf)
   - Learning and Generalization in Overparameterized Normalizing Flows by Yunshu Ouyang.
 - April 20th (Easter): No lecture
 - April 27th:
