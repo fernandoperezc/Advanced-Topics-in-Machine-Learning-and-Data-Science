@@ -56,10 +56,10 @@ Wednesday 16:00 -- 18:00     LFW  E13
   - Variational Inference with Normalizing Flows by Guangda Ji. [Slides](Ji.pdf)
 - April 13th:
   - Moser Flow: Divergence-based Generative Modeling on Manifolds by Pascal Mignon. [Slides](Mignon.pdf)
-  - Learning and Generalization in Overparameterized Normalizing Flows by Yunshu Ouyang.
+  - Learning and Generalization in Overparameterized Normalizing Flows by Yunshu Ouyang. [Slides](Ouyang.pdf)
 - April 20th (Easter): No lecture
 - April 27th:
-  - Causality for Machine Learning by Shanglun Feng. 
+  - Causality for Machine Learning by Shanglun Feng. [Slides](Feng.pdf)
   - Invariance, Causality and Robustness by Nora Schneider. 
 - May 4th:
   - Benchmarking and survey of explanation methods for black box models by Andri Simeon. 
