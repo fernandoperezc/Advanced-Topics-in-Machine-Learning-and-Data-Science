@@ -60,10 +60,10 @@ Wednesday 16:00 -- 18:00     LFW  E13
 - April 20th (Easter): No lecture
 - April 27th:
   - Causality for Machine Learning by Shanglun Feng. [Slides](Feng.pdf)
-  - Invariance, Causality and Robustness by Nora Schneider. 
+  - Invariance, Causality and Robustness by Nora Schneider. [Slides](Schneider1.pdf)
 - May 4th:
-  - Benchmarking and survey of explanation methods for black box models by Andri Simeon. 
   - A Unified Approach to Interpreting Model Predictions by Ivan Daniel Rodriguez.
+  - Benchmarking and survey of explanation methods for black box models by Andri Simeon. 
 - May 11th:
   - Single-Model Uncertainties for Deep Learning by Gardar Sigurdsson. 
   - Learning what and where to attend by Fiona Muntwyler.
