@@ -63,10 +63,10 @@ Wednesday 16:00 -- 18:00     LFW  E13
   - Invariance, Causality and Robustness by Nora Schneider. [Slides](Schneider1.pdf)
 - May 4th:
   - A Unified Approach to Interpreting Model Predictions by Ivan Daniel Rodriguez. [Slides](Rodriguez.pdf)
-  - Benchmarking and survey of explanation methods for black box models by Andri Simeon. 
+  - Benchmarking and survey of explanation methods for black box models by Andri Simeon. [Slides](Simeon.pdf)
 - May 11th:
-  - Single-Model Uncertainties for Deep Learning by Gardar Sigurdsson. 
-  - Learning what and where to attend by Fiona Muntwyler.
+  - Single-Model Uncertainties for Deep Learning by Gardar Sigurdsson. [Slides](Sigurdsson.pdf)
+  - Learning what and where to attend by Fiona Muntwyler. [Slides](Muntwyler.pdf)
 - May 18th:
   - MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers by Kailin Liu. 
   - Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer by Alexey Gavryushin.
