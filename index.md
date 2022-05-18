@@ -68,8 +68,8 @@ Wednesday 16:00 -- 18:00     LFW  E13
   - Single-Model Uncertainties for Deep Learning by Gardar Sigurdsson. [Slides](Sigurdsson.pdf)
   - Learning what and where to attend by Fiona Muntwyler. [Slides](Muntwyler.pdf)
 - May 18th:
-  - MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers by Kailin Liu. 
-  - Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer by Alexey Gavryushin.
+  - MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers by Kailin Liu. [Slides](Liu.pptx)
+  - Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer by Alexey Gavryushin. [Slides](Gavryushin.pptx)
 - May 25th:
   - Distilling the Knowledge in a Neural Network by Sophie Selgrad. 
   - Symbolic Knowledge Distillation: from General Language Models to Commonsense Models by Junling Wang.
