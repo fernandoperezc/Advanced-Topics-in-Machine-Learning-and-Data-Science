@@ -16,26 +16,26 @@ Wednesday 16:00 -- 18:00     LFW  E13
 
 ## List of papers:
 
-*   [Attention is all you need.](https://arxiv.org/abs/1706.03762)
-*   [Language Models are Unsupervised Multitask Learners.](https://openai.com/blog/better-language-models/)
-*   [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.](https://arxiv.org/abs/1810.04805)
-*   [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.](https://arxiv.org/abs/2010.11929)
-*   [Emerging Properties in Self-Supervised Vision Transformers.](https://arxiv.org/abs/2104.14294)
-*   [Pre-trained Transformers As Universal Computation Engines](https://arxiv.org/abs/2103.05247)
-*   [Style transfer GAN.](https://arxiv.org/abs/1812.04948)
-*   [Variational Inference with Normalizing Flows.](https://arxiv.org/abs/1505.05770)
-*   [Moser Flow: Divergence-based Generative Modeling on Manifolds.](https://openreview.net/forum?id=qGvMv3undNJ)
-*   [Learning and Generalization in Overparameterized Normalizing Flows.](https://arxiv.org/abs/2106.10535)
-*   [Distilling the Knowledge in a Neural Network.](https://arxiv.org/abs/1503.02531)
-*   [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models.](https://arxiv.org/abs/2110.07178)
-*   [Invariance, Causality and Robustness.](https://arxiv.org/abs/1812.08233)
-*   [Causality for Machine Learning.](https://arxiv.org/abs/1911.10500)
-*   [Single-Model Uncertainties for Deep Learning.](https://arxiv.org/abs/1811.00908)
-*   [A Unified Approach to Interpreting Model Predictions.](https://arxiv.org/abs/1705.07874)
-*   [Benchmarking and survey of explanation methods for black box models.](https://arxiv.org/abs/2102.13076)
-*   [Learning what and where to attend.](https://arxiv.org/abs/1805.08819)
-*   [MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers.](https://openreview.net/forum?id=Tqx7nJp7PR)
-*   [Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer.](https://arxiv.org/abs/1808.02651)
+*   [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.](https://arxiv.org/abs/1406.1078)
+*   [Generative Adversarial Networks.](https://arxiv.org/abs/1406.2661)
+*   [Effective Approaches to Attention-based Neural Machine Translation.](https://arxiv.org/abs/1508.04025)
+*   [Auto-Encoding Variational Bayes.](https://arxiv.org/abs/1312.6114)
+*   [Exploring the Limits of Language Modeling.](https://arxiv.org/abs/1602.02410)
+*   [Glow: Generative Flow with Invertible 1x1 Convolutions]()
+*   [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+*   [Deep Unsupervised Learning using Nonequilibrium Thermodynamics.](https://arxiv.org/abs/1503.03585)
+*   [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+*   [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446)
+*   [Improving Language Understanding by Generative Pre-Training.](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+*   [Integer Discrete Flows and Lossless Compression](https://arxiv.org/abs/1905.07376)
+*   [Language models are few-shot learners.](https://arxiv.org/abs/2005.14165)
+*   [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)
+*   [TruthfulQA: Measuring How Models Mimic Human Falsehoods.](https://aclanthology.org/2022.acl-long.229/)
+*   [Denoising Diffusion Probabilistic Models.](https://arxiv.org/abs/2006.11239)
+*   [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+*   [Do Deep Generative Models Know What They Don't Know?.](https://arxiv.org/abs/1810.09136)
+*   [Vector-quantized Image Modeling with Improved VQGAN.](https://arxiv.org/abs/2110.04627)
+*   [Detecting Out-of-Distribution Inputs to Deep Generative Models Using Typicality.](https://arxiv.org/abs/1906.02994)
 
 ## Schedule:
 
@@ -43,35 +43,35 @@ Wednesday 16:00 -- 18:00     LFW  E13
 - March 1st: Introduction
 - March 8th: No lecture
 - March 15th:
-  - Attention is all you need by 
-  - Language Models are Unsupervised Multitask Learners 
+  - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation by 
+  - Generative Adversarial Networks 
 - March 22nd:
-  - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by 
-  - Pre-trained Transformers As Universal Computation Engines by 
+  - Effective Approaches to Attention-based Neural Machine Translation by 
+  - Auto-Encoding Variational Bayes by 
 - March 29th: 
-  - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by 
-  - Emerging Properties in Self-Supervised Vision Transformers by
+  - Exploring the Limits of Language Modeling by 
+  - Glow: Generative Flow with Invertible 1x1 Convolutions by
 - April 5th: 
-  - Style transfer GAN by 
-  - Variational Inference with Normalizing Flows by 
+  -  Attention Is All You Need by 
+  -  Deep Unsupervised Learning using Nonequilibrium Thermodynamics by 
 - April 12th (Easter): No lecture
 - April 19th:
-  - Moser Flow: Divergence-based Generative Modeling on Manifolds by 
-  - Learning and Generalization in Overparameterized Normalizing Flows by 
+  -  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by 
+  -  Generating Diverse High-Fidelity Images with VQ-VAE-2 by 
 - April 26th:
-  - Causality for Machine Learning by
-  - Invariance, Causality and Robustness by 
+  -  Improving Language Understanding by Generative Pre-Training by
+  -  Integer Discrete Flows and Lossless Compression by 
 - May 3rd:
-  - A Unified Approach to Interpreting Model Predictions by 
-  - Benchmarking and survey of explanation methods for black box models by 
+  -  Language models are few-shot learners by 
+  -  Generative Modeling by Estimating Gradients of the Data Distribution by 
 - May 10th:
-  - Single-Model Uncertainties for Deep Learning by 
-  - Learning what and where to attend by 
+  -  TruthfulQA: Measuring How Models Mimic Human Falsehoods by 
+  -  Denoising Diffusion Probabilistic Models by 
 - May 17th:
-  - MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers by
-  - Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer by 
+  -  An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by
+  -  Do Deep Generative Models Know What They Don't Know? by 
 - May 24th:
-  - Distilling the Knowledge in a Neural Network by 
-  - Symbolic Knowledge Distillation: from General Language Models to Commonsense Models by 
+  -  Vector-quantized Image Modeling with Improved VQGAN by 
+  -  Detecting Out-of-Distribution Inputs to Deep Generative Models Using Typicality by 
 - May 30th: Overflow if needed.
 
