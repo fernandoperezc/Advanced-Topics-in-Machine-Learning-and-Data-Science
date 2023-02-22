@@ -21,7 +21,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
 *   [Effective Approaches to Attention-based Neural Machine Translation.](https://arxiv.org/abs/1508.04025)
 *   [Auto-Encoding Variational Bayes.](https://arxiv.org/abs/1312.6114)
 *   [Exploring the Limits of Language Modeling.](https://arxiv.org/abs/1602.02410)
-*   [Glow: Generative Flow with Invertible 1x1 Convolutions]()
+*   [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039)
 *   [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 *   [Deep Unsupervised Learning using Nonequilibrium Thermodynamics.](https://arxiv.org/abs/1503.03585)
 *   [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
