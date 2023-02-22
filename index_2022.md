@@ -39,39 +39,39 @@ Wednesday 16:00 -- 18:00     LFW  E13
 
 ## Schedule:
 
-- Feb 22nd: No Lecture
-- March 1st: Introduction
-- March 8th: No lecture
-- March 15th:
-  - Attention is all you need by 
-  - Language Models are Unsupervised Multitask Learners 
-- March 22nd:
-  - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by 
-  - Pre-trained Transformers As Universal Computation Engines by 
-- March 29th: 
-  - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by 
-  - Emerging Properties in Self-Supervised Vision Transformers by
-- April 5th: 
-  - Style transfer GAN by 
-  - Variational Inference with Normalizing Flows by 
-- April 12th (Easter): No lecture
-- April 19th:
-  - Moser Flow: Divergence-based Generative Modeling on Manifolds by 
-  - Learning and Generalization in Overparameterized Normalizing Flows by 
-- April 26th:
-  - Causality for Machine Learning by
-  - Invariance, Causality and Robustness by 
-- May 3rd:
-  - A Unified Approach to Interpreting Model Predictions by 
-  - Benchmarking and survey of explanation methods for black box models by 
-- May 10th:
-  - Single-Model Uncertainties for Deep Learning by 
-  - Learning what and where to attend by 
-- May 17th:
-  - MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers by
-  - Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer by 
-- May 24th:
-  - Distilling the Knowledge in a Neural Network by 
-  - Symbolic Knowledge Distillation: from General Language Models to Commonsense Models by 
-- May 30th: Overflow if needed.
+- Feb 23rd: No Lecture
+- March 2nd: [Introduction](ATMLDS.pdf)
+- March 9th: No lecture
+- March 16th:
+  - Attention is all you need by Matteo Omenetti. [Slides](Omenetti.pdf)
+  - Language Models are Unsupervised Multitask Learners [cancelled].
+- March 23rd:
+  - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Luca Schweri. [Slides](schweri.pdf)
+  - Pre-trained Transformers As Universal Computation Engines by Antonio Lopardo. [Slides](Lopardo.pdf)
+- March 30th: 
+  - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by Jonas Binder. [Slides](Binder.pdf)
+  - Emerging Properties in Self-Supervised Vision Transformers by Javier Rando Ramirez. [Slides](Rando.pdf)
+- April 6th: 
+  - Style transfer GAN by Tianyi Liu. [Slides](Liu1.pdf)
+  - Variational Inference with Normalizing Flows by Guangda Ji. [Slides](Ji.pdf)
+- April 13th:
+  - Moser Flow: Divergence-based Generative Modeling on Manifolds by Pascal Mignon. [Slides](Mignon.pdf)
+  - Learning and Generalization in Overparameterized Normalizing Flows by Yunshu Ouyang. [Slides](Ouyang.pdf)
+- April 20th (Easter): No lecture
+- April 27th:
+  - Causality for Machine Learning by Shanglun Feng. [Slides](Feng.pdf)
+  - Invariance, Causality and Robustness by Nora Schneider. [Slides](Schneider1.pdf)
+- May 4th:
+  - A Unified Approach to Interpreting Model Predictions by Ivan Daniel Rodriguez. [Slides](Rodriguez.pdf)
+  - Benchmarking and survey of explanation methods for black box models by Andri Simeon. [Slides](Simeon.pdf)
+- May 11th:
+  - Single-Model Uncertainties for Deep Learning by Gardar Sigurdsson. [Slides](Sigurdsson.pdf)
+  - Learning what and where to attend by Fiona Muntwyler. [Slides](Muntwyler.pdf)
+- May 18th:
+  - MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers by Kailin Liu. [Slides](Liu.pptx)
+  - Beyond Pixel Norm-Balls: Parametric Adversaries using an Analytically Differentiable Renderer by Alexey Gavryushin. [Slides](Gavryushin.pptx)
+- May 25th:
+  - Distilling the Knowledge in a Neural Network by Sophie Selgrad. 
+  - Symbolic Knowledge Distillation: from General Language Models to Commonsense Models by Junling Wang.
+- June 1st: Overflow if needed.
 
