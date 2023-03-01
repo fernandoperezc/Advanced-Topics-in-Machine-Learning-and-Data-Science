@@ -40,7 +40,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
 ## Schedule:
 
 - Feb 22nd: No Lecture
-- March 1st: Introduction
+- March 1st: [Introduction](ATMLDS.pdf)
 - March 8th: No lecture
 - March 15th:
   - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation by 
