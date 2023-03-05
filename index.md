@@ -43,35 +43,35 @@ Wednesday 16:00 -- 18:00     LFW  E13
 - March 1st: [Introduction](ATMLDS.pdf)
 - March 8th: No lecture
 - March 15th:
-  - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation by 
-  - Generative Adversarial Networks 
+  - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation by Andrea Pinto.
+  - Generative Adversarial Networks by Shubham Chowdhary.
 - March 22nd:
-  - Effective Approaches to Attention-based Neural Machine Translation by 
-  - Auto-Encoding Variational Bayes by 
+  - Effective Approaches to Attention-based Neural Machine Translation by Weronika Ormaniec.
+  - Auto-Encoding Variational Bayes by Giulio Vittorio Carassai.
 - March 29th: 
-  - Exploring the Limits of Language Modeling by 
-  - Glow: Generative Flow with Invertible 1x1 Convolutions by
+  - Exploring the Limits of Language Modeling by Gabriel Gavrilas.
+  - Glow: Generative Flow with Invertible 1x1 Convolutions by Arthur Colette.
 - April 5th: 
-  -  Attention Is All You Need by 
-  -  Deep Unsupervised Learning using Nonequilibrium Thermodynamics by 
+  -  Attention Is All You Need by Alexander Eichhorn.
+  -  Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Josep Borrell Tatché.
 - April 12th (Easter): No lecture
 - April 19th:
-  -  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by 
-  -  Generating Diverse High-Fidelity Images with VQ-VAE-2 by 
+  -  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Chuhao Feng.
+  -  Generating Diverse High-Fidelity Images with VQ-VAE-2 by Jingyu Wang.
 - April 26th:
-  -  Improving Language Understanding by Generative Pre-Training by
-  -  Integer Discrete Flows and Lossless Compression by 
+  -  Improving Language Understanding by Generative Pre-Training by Yunying Zhu.
+  -  Integer Discrete Flows and Lossless Compression by Elif Emanet.
 - May 3rd:
-  -  Language models are few-shot learners by 
-  -  Generative Modeling by Estimating Gradients of the Data Distribution by 
+  -  Language models are few-shot learners by Giovanni Acampa.
+  -  Generative Modeling by Estimating Gradients of the Data Distribution by Francesc Martí Escofet. 
 - May 10th:
-  -  TruthfulQA: Measuring How Models Mimic Human Falsehoods by 
-  -  Denoising Diffusion Probabilistic Models by 
+  -  TruthfulQA: Measuring How Models Mimic Human Falsehoods by Jan Tempus.
+  -  Denoising Diffusion Probabilistic Models by TBD
 - May 17th:
-  -  An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by
-  -  Do Deep Generative Models Know What They Don't Know? by 
+  -  An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by TBD
+  -  Do Deep Generative Models Know What They Don't Know? by Rongxing Liu.
 - May 24th:
-  -  Vector-quantized Image Modeling with Improved VQGAN by 
-  -  Detecting Out-of-Distribution Inputs to Deep Generative Models Using Typicality by 
+  -  Vector-quantized Image Modeling with Improved VQGAN by TBD
+  -  Detecting Out-of-Distribution Inputs to Deep Generative Models Using Typicality by Dion Hopkinson-Sibley
 - May 30th: Overflow if needed.
 
