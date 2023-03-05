@@ -53,7 +53,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
   - Glow: Generative Flow with Invertible 1x1 Convolutions by Arthur Colette.
 - April 5th: 
   -  Attention Is All You Need by Alexander Eichhorn.
-  -  Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Josep Borrell Tatché.
+  -  Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Josep Borrell Tatche.
 - April 12th (Easter): No lecture
 - April 19th:
   -  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Chuhao Feng.
@@ -63,7 +63,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
   -  Integer Discrete Flows and Lossless Compression by Elif Emanet.
 - May 3rd:
   -  Language models are few-shot learners by Giovanni Acampa.
-  -  Generative Modeling by Estimating Gradients of the Data Distribution by Francesc Martí Escofet. 
+  -  Generative Modeling by Estimating Gradients of the Data Distribution by Francesc Marti Escofet. 
 - May 10th:
   -  TruthfulQA: Measuring How Models Mimic Human Falsehoods by Jan Tempus.
   -  Denoising Diffusion Probabilistic Models by TBD
