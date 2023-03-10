@@ -51,27 +51,27 @@ Wednesday 16:00 -- 18:00     LFW  E13
 - March 29th: 
   - Exploring the Limits of Language Modeling by Gabriel Gavrilas.
   - Glow: Generative Flow with Invertible 1x1 Convolutions by Arthur Colette.
-- April 5th: 
-  -  Attention Is All You Need by Alexander Eichhorn.
-  -  Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Josep Borrell Tatche.
+- April 5th: No lecture
 - April 12th (Easter): No lecture
 - April 19th:
+  -  Attention Is All You Need by Alexander Eichhorn.
+  -  Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Josep Borrell Tatche.
+- April 26th:
   -  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Chuhao Feng.
   -  Generating Diverse High-Fidelity Images with VQ-VAE-2 by Jingyu Wang.
-- April 26th:
-  -  Improving Language Understanding by Generative Pre-Training by Yunying Zhu.
-  -  Integer Discrete Flows and Lossless Compression by Elif Emanet.
 - May 3rd:
-  -  Language models are few-shot learners by Giovanni Acampa.
-  -  Generative Modeling by Estimating Gradients of the Data Distribution by Francesc Marti Escofet. 
+  -  Improving Language Understanding by Generative Pre-Training by Yunying Zhu.
+  -  Integer Discrete Flows and Lossless Compression by Elif Emanet. 
 - May 10th:
-  -  TruthfulQA: Measuring How Models Mimic Human Falsehoods by Jan Tempus.
-  -  Denoising Diffusion Probabilistic Models by TBD
+  -  Language models are few-shot learners by Giovanni Acampa.
+  -  Generative Modeling by Estimating Gradients of the Data Distribution by Francesc Marti Escofet.
 - May 17th:
-  -  An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by TBD
-  -  Do Deep Generative Models Know What They Don't Know? by Rongxing Liu.
+  -  TruthfulQA: Measuring How Models Mimic Human Falsehoods by Jan Tempus.
+  -  Denoising Diffusion Probabilistic Models by Yiting Qian.
 - May 24th:
+  -  An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by Dustin Brunner.
+  -  Do Deep Generative Models Know What They Don't Know? by Rongxing Liu.
+- May 30th:
   -  Vector-quantized Image Modeling with Improved VQGAN by TBD
   -  Detecting Out-of-Distribution Inputs to Deep Generative Models Using Typicality by Dion Hopkinson-Sibley
-- May 30th: Overflow if needed.
 
