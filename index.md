@@ -71,7 +71,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
 - May 24th:
   -  An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by Dustin Brunner.
   -  Do Deep Generative Models Know What They Don't Know? by Rongxing Liu.
-- May 30th:
+- May 31st:
   -  Vector-quantized Image Modeling with Improved VQGAN by TBD
   -  Detecting Out-of-Distribution Inputs to Deep Generative Models Using Typicality by Dion Hopkinson-Sibley
 
