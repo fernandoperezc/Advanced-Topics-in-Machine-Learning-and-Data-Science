@@ -8,7 +8,7 @@ The seminar “Advanced Topics in Machine Learning and Data Science” familiari
 
 [Fernando Perez-Cruz](mailto:fernando.perezcruz@sdsc.ethz.ch)
 
-Office TUR E21
+Office OAT
 
 ## Lectures:
 
@@ -39,39 +39,39 @@ Wednesday 16:00 -- 18:00     LFW  E13
 
 ## Schedule:
 
-- Feb 22nd: No Lecture
-- March 1st: [Introduction](ATMLDS.pdf)
-- March 8th: No lecture
-- March 15th:
-  - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation by Andrea Pinto.
-  - Generative Adversarial Networks by Shubham Chowdhary.
-- March 22nd:
-  - Effective Approaches to Attention-based Neural Machine Translation by Weronika Ormaniec.
-  - Auto-Encoding Variational Bayes by Giulio Vittorio Carassai.
-- March 29th: 
-  - Exploring the Limits of Language Modeling by Gabriel Gavrilas.
-  - Glow: Generative Flow with Invertible 1x1 Convolutions by Arthur Colette.
-- April 5th: No lecture
-- April 12th (Easter): No lecture
-- April 19th:
-  -  Attention Is All You Need by Alexander Eichhorn.
-  -  Deep Unsupervised Learning using Nonequilibrium Thermodynamics by Josep Borrell Tatche.
-- April 26th:
-  -  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by Chuhao Feng.
-  -  Generating Diverse High-Fidelity Images with VQ-VAE-2 by Jingyu Wang.
-- May 3rd:
-  -  Improving Language Understanding by Generative Pre-Training by Yunying Zhu.
-  -  Integer Discrete Flows and Lossless Compression by Elif Emanet. 
-- May 10th:
-  -  Language models are few-shot learners by Giovanni Acampa.
-  -  Generative Modeling by Estimating Gradients of the Data Distribution by Francesc Marti Escofet.
-- May 17th:
-  -  TruthfulQA: Measuring How Models Mimic Human Falsehoods by Jan Tempus.
-  -  Denoising Diffusion Probabilistic Models by Yiting Qian.
-- May 24th:
-  -  An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale by Dustin Brunner.
-  -  Do Deep Generative Models Know What They Don't Know? by Rongxing Liu.
-- May 31st:
-  -  Vector-quantized Image Modeling with Improved VQGAN by TBD
-  -  Detecting Out-of-Distribution Inputs to Deep Generative Models Using Typicality by Dion Hopkinson-Sibley
+- February 21st: [Introduction]
+- February 28th: No lecture
+- March 6th: 
+  - Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning by XXX.
+  - Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness by XXX.
+- March 13th:
+  - Attention Is All You Need by XXX.
+  - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding by XXX.
+- March 20th:
+  - Does data interpolation contradict statistical optimality? by XXX.
+  -  In Search of the Real Inductive Bias: On the Role of Implicit Regularization in Deep Learning by XXX.
+- March 27th: 
+  - Denoising Diffusion Probabilistic Models by XXX.
+  - High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion) by XXX.
+- April 3rd: (Easter): No lecture
+- April 10th:
+  - Emergent Abilities of Large Language Models by XXX.
+  - Are Emergent Abilities of Large Language Models a Mirage? by XXX.
+- April 17th:
+  -  Chain-of-Thought Prompting Elicits Reasoning in Large Language Models by XXX.
+  -  Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective by XXX.
+- April 24th: No lecture
+- May 1st: No lecture 
+- May 8th:
+  -  MLP-Mixer: An all-MLP Architecture for Vision by XXX.
+  -  Pay attention to MLPs by XXX.
+- May 15th:
+  -  Continuous Deep Q-Learning with Model-based Acceleration by XXX.
+  -  Supervised Contrastive Learning by XXX.
+- May 22nd:
+  -  Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data by XXX.
+  -  AI And The Limits Of Language by XXX.
+- May 29th:
+  -  Cognitive Architectures for Language Agents by XXX
+  -  A Path Towards Autonomous Machine Intelligence by XXX
 
