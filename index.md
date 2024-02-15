@@ -14,29 +14,6 @@ Office OAT
 
 Wednesday 16:00 -- 18:00     LFW  E13
 
-## List of papers:
-
-*   [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.](https://arxiv.org/abs/1406.1078)
-*   [Generative Adversarial Networks.](https://arxiv.org/abs/1406.2661)
-*   [Effective Approaches to Attention-based Neural Machine Translation.](https://arxiv.org/abs/1508.04025)
-*   [Auto-Encoding Variational Bayes.](https://arxiv.org/abs/1312.6114)
-*   [Exploring the Limits of Language Modeling.](https://arxiv.org/abs/1602.02410)
-*   [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039)
-*   [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-*   [Deep Unsupervised Learning using Nonequilibrium Thermodynamics.](https://arxiv.org/abs/1503.03585)
-*   [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-*   [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446)
-*   [Improving Language Understanding by Generative Pre-Training.](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-*   [Integer Discrete Flows and Lossless Compression](https://arxiv.org/abs/1905.07376)
-*   [Language models are few-shot learners.](https://arxiv.org/abs/2005.14165)
-*   [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)
-*   [TruthfulQA: Measuring How Models Mimic Human Falsehoods.](https://aclanthology.org/2022.acl-long.229/)
-*   [Denoising Diffusion Probabilistic Models.](https://arxiv.org/abs/2006.11239)
-*   [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
-*   [Do Deep Generative Models Know What They Don't Know?.](https://arxiv.org/abs/1810.09136)
-*   [Vector-quantized Image Modeling with Improved VQGAN.](https://arxiv.org/abs/2110.04627)
-*   [Detecting Out-of-Distribution Inputs to Deep Generative Models Using Typicality.](https://arxiv.org/abs/1906.02994)
-
 ## Schedule:
 
 - February 21st: [Introduction]
