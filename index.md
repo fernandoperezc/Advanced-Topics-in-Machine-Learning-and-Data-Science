@@ -1,8 +1,8 @@
 # Objective
 
-In this seminar, recent papers of the machine learning and data science literature are presented and discussed. Possible topics cover statistical models, machine learning algorithms and its applications.
+In this seminar, recent papers of the machine learning and data science literature are presented and discussed. Possible topics cover statistical models, machine learning algorithms, and their applications.
 
-The seminar â€œAdvanced Topics in Machine Learning and Data Scienceâ€ familiarizes students with recent developments in machine learning and data science. Recently published articles, as well as influential papers, have to be presented and critically reviewed. The students will learn how to structure a scientific presentation, which covers the motivation, key ideas and main results of a scientific paper. An important goal of the seminar presentation is to summarize the essential ideas of the paper in sufficient depth for the audience to be able to follow its main conclusion, especially why the article is (or is not) worth attention. The presentation style will play an important role and should reach the level of professional scientific presentations.
+The seminar "Advanced Topics in Machine Learning and Data Science" familiarizes students with recent developments in machine learning and data science. Recently published articles, as well as influential papers, have to be presented and critically reviewed. The students will learn how to structure a scientific presentation, which covers the motivation, key ideas and main results of a scientific paper. An important goal of the seminar presentation is to summarize the essential ideas of the paper in sufficient depth for the audience to be able to follow its main conclusion, especially why the article is (or is not) worth attention. The presentation style will play an important role and should reach the level of professional scientific presentations.
 
 ## Contact:
 
@@ -32,10 +32,10 @@ Wednesday 16:00 -- 18:00     LFW  E13
   - [High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion)](https://arxiv.org/abs/2112.10752) by Marcus Nielsen.
 - April 3rd: (Easter): No lecture
 - April 10th:
-  - [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682) by Cyrill PŸntener
+  - [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682) by Cyrill Püntener
   - [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004) by Chao Chen
 - April 17th:
-  -  [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) by Michael Ungersbšck.
+  -  [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) by Michael Ungersböck.
   -  [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/pdf/2305.15408.pdf) by Nazar Puriy.
 - April 24th: No lecture
 - May 1st: No lecture 
@@ -50,5 +50,5 @@ Wednesday 16:00 -- 18:00     LFW  E13
   -  [AI And The Limits Of Language](https://www.noemamag.com/ai-and-the-limits-of-language/) by Zdenek Snajdr
 - May 29th:
   -  [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427.pdf) by Yanick Zengaffinen
-  -  [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf ) by TBD
+  -  [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf ) by Mamoun Chami
 
