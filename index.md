@@ -25,7 +25,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
   - [Attention Is All You Need]( https://arxiv.org/abs/1706.03762) by Kerem Gura.
   - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) by Rene Caky
 - March 20th:
-  - [Does data interpolation contradict statistical optimality?](https://proceedings.mlr.press/v89/belkin19a.html) by TBD
+  - [Does data interpolation contradict statistical optimality?](https://proceedings.mlr.press/v89/belkin19a.html) by Omar Mezghani
   -  [In Search of the Real Inductive Bias: On the Role of Implicit Regularization in Deep Learning](https://arxiv.org/pdf/1412.6614.pdf ) by Steve Rhyner.
 - March 27th: 
   - [Denoising Diffusion Probabilistic Models]( https://arxiv.org/abs/2006.11239) by Luka Secilmis.
@@ -46,7 +46,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
   -  [Continuous Deep Q-Learning with Model-based Acceleration](https://proceedings.mlr.press/v48/gu16.html) by Frederieke Lohmann.
   -  [Supervised Contrastive Learning](https://proceedings.neurips.cc/paper/2020/hash/d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html) by Andrei Arnautu
 - May 22nd:
-  -  [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://aclanthology.org/2020.acl-main.463.pdf) by TBD
+  -  [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://aclanthology.org/2020.acl-main.463.pdf) by Elena Bösch
   -  [AI And The Limits Of Language](https://www.noemamag.com/ai-and-the-limits-of-language/) by Zdenek Snajdr
 - May 29th:
   -  [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427.pdf) by Yanick Zengaffinen
