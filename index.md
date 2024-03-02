@@ -37,7 +37,9 @@ Wednesday 16:00 -- 18:00     LFW  E13
 - April 17th:
   -  [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) by Michael Ungersböck.
   -  [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/pdf/2305.15408.pdf) by Nazar Puriy.
-- April 24th: No lecture
+- April 24th:
+  -  [TBD](XXX) by Gegor Zunic.
+  -  [TTBD](XXX) by Lukas Häuser.
 - May 1st: No lecture 
 - May 8th:
   -  [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) by Hector Maeso Garcia.
