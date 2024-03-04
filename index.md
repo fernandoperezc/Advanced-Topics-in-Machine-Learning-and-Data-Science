@@ -38,8 +38,8 @@ Wednesday 16:00 -- 18:00     LFW  E13
   -  [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) by Michael Ungersböck.
   -  [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/pdf/2305.15408.pdf) by Nazar Puriy.
 - April 24th:
-  -  [TBD](XXX) by Gegor Zunic.
-  -  [TTBD](XXX) by Lukas Häuser.
+  -  [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/pdf/2402.17177.pdf) by Gegor Zunic.
+  -  [Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2018/file/5a4be1fa34e62bb8a6ec6b91d2462f5a-Paper.pdf) by Lukas Häuser.
 - May 1st: No lecture 
 - May 8th:
   -  [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) by Hector Maeso Garcia.
