@@ -28,8 +28,8 @@ Wednesday 16:00 -- 18:00     LFW  E13
   - [Does data interpolation contradict statistical optimality?](https://proceedings.mlr.press/v89/belkin19a.html) by Omar Mezghani
   -  [In Search of the Real Inductive Bias: On the Role of Implicit Regularization in Deep Learning](https://arxiv.org/pdf/1412.6614.pdf ) by Steve Rhyner.
 - March 27th: 
-  - [Denoising Diffusion Probabilistic Models]( https://arxiv.org/abs/2006.11239) by Luka Secilmis.
   - [High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion)](https://arxiv.org/abs/2112.10752) by Marcus Nielsen.
+  - [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/pdf/2402.17177.pdf) by Gegor Zunic.
 - April 3rd: (Easter): No lecture
 - April 10th:
   - [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682) by Cyrill Püntener
@@ -38,7 +38,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
   -  [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) by Michael Ungersböck.
   -  [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/pdf/2305.15408.pdf) by Nazar Puriy.
 - April 24th:
-  -  [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/pdf/2402.17177.pdf) by Gegor Zunic.
+  -  [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) by Luka Secilmis.
   -  [Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2018/file/5a4be1fa34e62bb8a6ec6b91d2462f5a-Paper.pdf) by Lukas Häuser.
 - May 1st: No lecture 
 - May 8th:
