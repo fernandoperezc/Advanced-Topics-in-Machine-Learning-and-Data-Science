@@ -36,7 +36,8 @@ Wednesday 16:00 -- 18:00     LFW  E13
   - [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004) by Chao Chen
 - April 17th:
   -  [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) by Michael Ungersböck.
-  -  [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/pdf/2305.15408.pdf) by Nazar Puriy.
+  -  [Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://arxiv.org/pdf/2305.15408.pdf) 
+  -  [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf) by Nazar Puriy.
 - April 24th:
   -  [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) by Luka Secilmis.
   -  [Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2018/file/5a4be1fa34e62bb8a6ec6b91d2462f5a-Paper.pdf) by Lukas Häuser.
