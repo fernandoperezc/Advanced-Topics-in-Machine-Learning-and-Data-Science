@@ -19,7 +19,7 @@ Wednesday 16:00 -- 18:00     LFW  E13
 - February 21st: [Introduction]
 - February 28th: No lecture
 - March 6th: 
-  - [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.pdf) by Simone Libutti.
+  - [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.pdf) by Simone Libutti. [Slides](Volken.pdf)
   - [Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness](https://arxiv.org/abs/2006.10108) by Nicolas Blumer.
 - March 13th:
   - [Attention Is All You Need]( https://arxiv.org/abs/1706.03762) by Kerem Gura.
