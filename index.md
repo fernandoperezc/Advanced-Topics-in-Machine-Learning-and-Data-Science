@@ -46,12 +46,12 @@ Wednesday 16:00 -- 18:00     LFW  E13
   -  [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) by Hector Maeso Garcia. [Slides](Maeso.pdf)
   -  [Pay attention to MLPs](https://arxiv.org/pdf/2105.08050.pdf) by Sascha Tran. [Slides](Tran.pptx)
 - May 15th:
-  -  [Continuous Deep Q-Learning with Model-based Acceleration](https://proceedings.mlr.press/v48/gu16.html) by Frederieke Lohmann.
-  -  [Supervised Contrastive Learning](https://proceedings.neurips.cc/paper/2020/hash/d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html) by Andrei Arnautu
+  -  [Continuous Deep Q-Learning with Model-based Acceleration](https://proceedings.mlr.press/v48/gu16.html) by Frederieke Lohmann. [Slides](Lohmann.pdf)
+  -  [Supervised Contrastive Learning](https://proceedings.neurips.cc/paper/2020/hash/d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html) by Andrei Arnautu. [Slides](Arnautu.pdf)
 - May 22nd:
-  -  [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://aclanthology.org/2020.acl-main.463.pdf) by Elena Bösch [Slides](Bosch.pdf)
-  -  [AI And The Limits Of Language](https://www.noemamag.com/ai-and-the-limits-of-language/) by Zdenek Snajdr [Slides](Snajdr.pdf)
+  -  [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://aclanthology.org/2020.acl-main.463.pdf) by Elena Bösch. [Slides](Bosch.pdf)
+  -  [AI And The Limits Of Language](https://www.noemamag.com/ai-and-the-limits-of-language/) by Zdenek Snajdr. [Slides](Snajdr.pdf)
 - May 29th:
-  -  [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427.pdf) by Yanick Zengaffinen [Slides](https://polybox.ethz.ch/index.php/s/PqFqTvk0Xm0pnEX)
+  -  [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427.pdf) by Yanick Zengaffinen. [Slides](https://polybox.ethz.ch/index.php/s/PqFqTvk0Xm0pnEX)
   -  [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf ) by Mamoun Chami
 
